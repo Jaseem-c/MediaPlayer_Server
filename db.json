@@ -1,0 +1,122 @@
+{
+  "allVideos": [
+    {
+      "caption": "illuminati",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-7mj9M_5ThWT4bYir7sYBvCChbtZlAP17w&s",
+      "videoUrl": "https://www.youtube.com/embed/yH7eDWTH5iM",
+      "id": 1
+    },
+    {
+      "caption": "Aasa Kooda",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtpzHlvkCla8BfPb765Sby8HWgyvIuIhQkg&s",
+      "videoUrl": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+      "id": 2
+    },
+    {
+      "caption": "Ballatha Jaathi",
+      "imageUrl": "https://c.saavncdn.com/783/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "id": 3
+    },
+    {
+      "caption": "Hukum",
+      "imageUrl": "https://c.saavncdn.com/082/Hukum-From-Jailer-Telugu-2023-20230730055959-500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "id": 4
+    },
+    {
+      "caption": "Dheere Dheere",
+      "imageUrl": "https://c.saavncdn.com/808/Dheere-Dheere-Hindi-2015-500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/nCD2hj6zJEc",
+      "id": 5
+    },
+    {
+      "caption": "Fear Song",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738591a24a47e09545b988f9b2",
+      "videoUrl": "https://www.youtube.com/embed/WAM3E91iKWM",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "illuminati",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-7mj9M_5ThWT4bYir7sYBvCChbtZlAP17w&s",
+          "videoUrl": "https://www.youtube.com/embed/yH7eDWTH5iM",
+          "id": 1
+        },
+        {
+          "caption": "Ballatha Jaathi",
+          "imageUrl": "https://c.saavncdn.com/783/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/rhrD7as3KJg",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Tamil Songs",
+      "allVideos": [
+        {
+          "caption": "Hukum",
+          "imageUrl": "https://c.saavncdn.com/082/Hukum-From-Jailer-Telugu-2023-20230730055959-500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/1F3hm6MfR1k",
+          "id": 4
+        },
+        {
+          "caption": "Fear Song",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738591a24a47e09545b988f9b2",
+          "videoUrl": "https://www.youtube.com/embed/WAM3E91iKWM",
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Hindi Songs",
+      "allVideos": [
+        {
+          "caption": "Aasa Kooda",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtpzHlvkCla8BfPb765Sby8HWgyvIuIhQkg&s",
+          "videoUrl": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+          "id": 2
+        },
+        {
+          "caption": "Dheere Dheere",
+          "imageUrl": "https://c.saavncdn.com/808/Dheere-Dheere-Hindi-2015-500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/nCD2hj6zJEc",
+          "id": 5
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/yH7eDWTH5iM",
+      "timeStamp": "15/07/2024, 13:10:32",
+      "id": 1
+    },
+    {
+      "caption": "Aasa Kooda",
+      "url": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+      "timeStamp": "15/07/2024, 13:15:59",
+      "id": 2
+    },
+    {
+      "caption": "Aasa Kooda",
+      "url": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+      "timeStamp": "15/07/2024, 14:56:48",
+      "id": 7
+    },
+    {
+      "caption": "Hukum",
+      "url": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timeStamp": "16/07/2024, 12:51:22",
+      "id": 8
+    }
+  ]
+}
